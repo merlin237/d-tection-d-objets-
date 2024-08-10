@@ -1,0 +1,6 @@
+train: C:/Users/USER/Documents/tppython/VOCdevkit/VOC2012/ImageSets/Main/train.txt
+val: C:/Users/USER/Documents/tppython/VOCdevkit/VOC2012/ImageSets/Main/val.txt
+test: C:/Users/USER/Documents/tppython/VOCdevkit/VOC2012/ImageSets/Main/test.txt
+
+nc: 20
+names: ['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog', 'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor']
